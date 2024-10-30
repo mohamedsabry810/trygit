@@ -1,1 +1,1 @@
-Atos EG1 Devops new
+Atos EG Devops new
